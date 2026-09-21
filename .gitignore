@@ -1,0 +1,8 @@
+node_modules
+dist
+*.zip
+.idea
+.claude
+.DS_Store
+ScreenShot_*.png
+store/_*.png
